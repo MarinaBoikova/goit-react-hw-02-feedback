@@ -1,6 +1,7 @@
 .listFeedback {
   list-style: none;
   display: flex;
+  justify-content: center;
 }
 .itemFeedback {
   margin-right: 15px;
